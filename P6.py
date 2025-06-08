@@ -1,4 +1,6 @@
 from transformers import pipeline
+#pip install transformers
+#pip install torch
 
 # Specify the model explicitly
 sentiment_analyzer = pipeline(
