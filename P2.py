@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt 
 from sklearn.decomposition import PCA 
 from gensim.downloader import load 
+pip install matplotlib scikit-learn gensim
 # Dimensionality reduction using PCA 
 def rd(ems): 
 pca = PCA(n_components=2) 
