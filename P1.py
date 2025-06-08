@@ -1,5 +1,6 @@
 from gensim.downloader import load
-
+#To install gensim library
+#pip install gensim
 # Load the pre-trained GloVe model (50 dimensions)
 print("Loading pre-trained GloVe model (50 dimensions)...")
 model = load("glove-wiki-gigaword-50")
