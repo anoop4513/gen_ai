@@ -1,5 +1,6 @@
 from gensim.downloader import load
 import random
+#pip install gensim
 
 # Load the pre-trained GloVe model
 print("Loading pre-trained GloVe model (50 dimensions)...")
