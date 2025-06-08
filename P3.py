@@ -1,4 +1,5 @@
 from gensim.models import Word2Vec
+#pip install gensim
 
 # Custom Word2Vec model
 def cw(corpus):
